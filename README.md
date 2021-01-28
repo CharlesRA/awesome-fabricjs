@@ -2,11 +2,14 @@
 
 A collection of awesome things regarding the Fabric.js ecosystem.
 
+## Contents
+
 -   [Fabric.js](#Fabric.js)
     -   [Fabric.js General Resources](#Fabric.js-general-resources)
     -   [Fabric.js Community](#Fabric.js-community)
     -   [Fabric.js Online Playgrounds](#Fabric.js-online-playgrounds)
     -   [Fabric.js Plugins](#Fabric.js-plugins)
+        -   [Controls](#controls)
         -   [History](#history)
 
 ---
@@ -34,8 +37,14 @@ A collection of awesome things regarding the Fabric.js ecosystem.
 
 #### Fabric.js Plugins
 
+##### Controls
+
+| Name | Description | Fabric.js Version |
+| --- | :-: | --: |
+| [fabric-customise-controls](https://www.npmjs.com/package/fabric-customise-controls) | Implementation of a way of changing the icon / cursor / action of the fabric.js corner controls. | ^1.7.17 |
+
 ##### History
 
-| Name                                                       |                Description                 | Version |
-| ---------------------------------------------------------- | :----------------------------------------: | ------: |
-| [fabric-history](https://github.com/lyzerk/fabric-history) | Undo and redo implementations on fabric.js |  ^3.3.2 |
+| Name                                                       |                Description                 | Fabric.js Version |
+| ---------------------------------------------------------- | :----------------------------------------: | ----------------: |
+| [fabric-history](https://github.com/lyzerk/fabric-history) | Undo and redo implementations on fabric.js |            ^3.3.2 |
